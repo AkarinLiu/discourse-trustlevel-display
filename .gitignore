@@ -1,0 +1,40 @@
+# === Node.js ===
+node_modules/
+
+# === Ruby / Bundler ===
+.bundle/
+vendor/bundle/
+*.gem
+
+# === OS generated files ===
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# === Editor / IDE ===
+.idea/
+*.swp
+*.swo
+*~
+\#*\#
+.#*
+
+# === Environment / Secrets ===
+.env
+.env.local
+.env.*.local
+
+# === Test coverage ===
+coverage/
+
+# === Temp & Cache ===
+tmp/
+log/
+
+# === Build artifacts (if any) ===
+dist/
+build/

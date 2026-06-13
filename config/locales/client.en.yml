@@ -1,0 +1,48 @@
+en:
+  admin_js:
+    admin:
+      site_settings:
+        categories:
+          trustlevel_display: "Trust Level Display"
+  js:
+    trustlevel_display:
+      title: "Trust Level Progress"
+      current_level: "Current Level"
+      next_level: "Next Level"
+      overall_progress: "Overall Progress"
+      requirements_title: "Requirements"
+      hide_requirements: "Hide Requirements"
+      requirement_met: "Met"
+      requirement_pending: "In Progress"
+      requirement_at_risk: "At Risk"
+      downgrade_risk_warning: "Your Leader status is at risk. Some metrics have dropped below the threshold."
+      tl4_status: "You have reached the highest trust level."
+      view_progress: "View Trust Level Progress"
+      progress_page_title: "Trust Level Progress for %{username}"
+      not_visible: "This user's trust level progress is not publicly visible."
+      visibility:
+        only_self: "Only visible to self"
+        everyone: "Visible to everyone"
+      level_names:
+        newuser: "New User"
+        basic: "Basic User"
+        member: "Member"
+        regular: "Regular"
+        leader: "Leader"
+      metrics:
+        days_visited: "Days Visited"
+        topics_entered: "Topics Entered"
+        posts_read: "Posts Read"
+        time_read: "Time Read (minutes)"
+        account_age: "Account Age (minutes)"
+        likes_given: "Likes Given"
+        likes_received: "Likes Received"
+        topic_reply_count: "Replies Created"
+        topics_viewed: "Topics Viewed"
+        topics_replied_to: "Topics Replied To"
+        topics_viewed_all_time: "Topics Viewed (All Time)"
+        posts_read_all_time: "Posts Read (All Time)"
+        num_flagged_posts: "Flagged Posts"
+        num_flagged_by_users: "Flagged By Users"
+        likes_received_users: "Likes Received Users"
+        likes_received_days: "Likes Received Days"

@@ -1,0 +1,4 @@
+en:
+  site_settings:
+    trustlevel_display_enabled: "Enable the Trust Level Display plugin"
+    trustlevel_display_visibility: "Trust Level progress page visibility"

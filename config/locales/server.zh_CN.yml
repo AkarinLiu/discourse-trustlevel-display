@@ -1,0 +1,4 @@
+zh_CN:
+  site_settings:
+    trustlevel_display_enabled: "启用信任级别显示插件"
+    trustlevel_display_visibility: "信任级别进度页面可见性"

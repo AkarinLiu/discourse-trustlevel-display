@@ -1,0 +1,11 @@
+trustlevel_display:
+  trustlevel_display_enabled:
+    default: true
+    client: true
+  trustlevel_display_visibility:
+    default: "only_self"
+    type: enum
+    choices:
+      - "only_self"
+      - "everyone"
+    client: true
