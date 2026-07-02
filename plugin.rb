@@ -3,7 +3,7 @@
 # name: discourse-trustlevel-display
 # about: Displays trust level upgrade progress and downgrade risk for Discourse users
 # meta_topic_id: TODO
-# version: 0.1.0
+# version: 0.1.1
 # authors: AkarinLiu
 # url: https://github.com/AkarinLiu/discourse-trustlevel-display
 # required_version: 2.7.0
